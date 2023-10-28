@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.bd861c94b083ea8382ae4a3668553935.js"
+  "/precache-manifest.8d2042ddfe6da95c7d5029721b42cda0.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "museum.uz"});
